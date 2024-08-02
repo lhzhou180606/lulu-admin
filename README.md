@@ -4,13 +4,19 @@ elegant admin template, based on Vue3 , TypeScript, Vuetify3, Axios
 
 form-generator , bpmn-js-camunda
 
-## Lulu
-Lulu is my arrogant cat
-<img src="https://i.imgur.com/3e63lxL.jpg" style="zoom:8%;" />
-
 ## Preview
 
 https://luluhome.site
+## ScreenShot
+![](https://i.imgur.com/tvptN70.png)
+![](https://i.imgur.com/gQOfGSh.png)
+![](https://i.imgur.com/RQinDIf.png)
+![](https://i.imgur.com/wmODutf.png)
+![](https://i.imgur.com/S5HeYO2.png)
+![](https://i.imgur.com/MgHU7Av.png)
+![](https://i.imgur.com/Xr5gqgE.png)
+![](https://i.imgur.com/OVjed1u.png)
+![](https://i.imgur.com/bNXRsiv.png)
 
 ## Feature
 
@@ -42,6 +48,11 @@ Axios
 ## Backend
 
 [lulu-oa](https://github.com/sunhao1256/lulu-oa) Java Api Server Construct by SpringBoot , CamundaPlatform
+
+## Lulu
+Lulu is my arrogant cat
+<img src="https://i.imgur.com/3e63lxL.jpg" style="zoom:8%;" />
+
 ## Reference
 
 infrastructure [SoybeanAdmin](https://github.com/honghuangdc/soybean-admin)
@@ -52,16 +63,6 @@ infrastructure [SoybeanAdmin](https://github.com/honghuangdc/soybean-admin)
 [native-ui](https://github.com/tusen-ai/naive-ui)
 
 [vben](https://github.com/vbenjs)
-## ScreenShot
-![](https://i.imgur.com/tvptN70.png)
-![](https://i.imgur.com/gQOfGSh.png)
-![](https://i.imgur.com/RQinDIf.png)
-![](https://i.imgur.com/wmODutf.png)
-![](https://i.imgur.com/S5HeYO2.png)
-![](https://i.imgur.com/MgHU7Av.png)
-![](https://i.imgur.com/Xr5gqgE.png)
-![](https://i.imgur.com/OVjed1u.png)
-![](https://i.imgur.com/bNXRsiv.png)
 
 
 
